@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-fxifo3.salamcuan.online/sitemap.xml
